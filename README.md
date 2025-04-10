@@ -38,6 +38,7 @@ A simple terminal-based Expense Tracker that helps you log daily expenses, set m
 
 ## Folder Structure
 
+```
 expense-tracker/
 ├── app.py           # Main app logic
 ├── models.py        # Functions for interacting with the database
@@ -45,6 +46,8 @@ expense-tracker/
 ├── email_utils.py   # Handles email notifications
 ├── README.md
 └── expenses.db      # (auto-created on first run)
+```
+
 
 
 ## Testing & Edge Cases
